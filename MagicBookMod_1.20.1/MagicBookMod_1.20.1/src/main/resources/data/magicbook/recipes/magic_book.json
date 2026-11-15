@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {"item": "minecraft:book"},
+    {"item": "minecraft:amethyst_shard"}
+  ],
+  "result": {"item": "magicbook:magic_book", "count": 1}
+}

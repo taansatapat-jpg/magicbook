@@ -1,0 +1,7 @@
+{
+ "parent": "magicbook:item/magic_book_base",
+ "textures": {
+  "cover": "magicbook:item/cover_green",
+  "particle": "magicbook:item/cover_green"
+ }
+}

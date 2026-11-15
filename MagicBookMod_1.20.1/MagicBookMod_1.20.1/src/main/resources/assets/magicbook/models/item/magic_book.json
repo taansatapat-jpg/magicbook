@@ -1,0 +1,29 @@
+{
+ "parent": "magicbook:item/magic_book_base",
+ "overrides": [
+  {
+   "predicate": {
+    "custom_model_data": 1
+   },
+   "model": "magicbook:item/magic_book_red"
+  },
+  {
+   "predicate": {
+    "custom_model_data": 2
+   },
+   "model": "magicbook:item/magic_book_blue"
+  },
+  {
+   "predicate": {
+    "custom_model_data": 3
+   },
+   "model": "magicbook:item/magic_book_yellow"
+  },
+  {
+   "predicate": {
+    "custom_model_data": 4
+   },
+   "model": "magicbook:item/magic_book_green"
+  }
+ ]
+}
